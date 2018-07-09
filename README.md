@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-# berry-database
-This is database tool.
-=======
 berryDB
 =======
 ![logo](http://yhzheng.com/logo-min.png)
 
 Description
 -----------
+This is database tool.
 
 + _This is a database._
 + _All said that the berry is sweet and delicious,but this db is "sweet and delicious" too._
@@ -53,4 +50,3 @@ We need use a command line tool:`berry-tool`
 License
 -------
 ___ISC___
->>>>>>> none
